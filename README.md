@@ -1,5 +1,5 @@
 # Django-Blog   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-blog">
-A simple Blog Application using Django
+A Blog Application using Django Framework
 
 # Working : 
 ![](https://github.com/pitbuk101/Django-Blog-master/blob/master/users/blog_app.gif)
