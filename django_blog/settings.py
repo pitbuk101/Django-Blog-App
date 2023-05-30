@@ -135,3 +135,5 @@ CRISPY_TEMPLATE_PACK = "bootstrap5"
 
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+
+CSRF_TRUSTED_ORIGINS = ['https://web-production-fbb52.up.railway.app']
